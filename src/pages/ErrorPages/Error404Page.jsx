@@ -1,4 +1,4 @@
-import Error404 from '../../components/user/errorPageComponents/error404'
+import Error404 from '../../components/user/errorPageComponents/Error404'
 
 const Error404Page = () => {
     return (

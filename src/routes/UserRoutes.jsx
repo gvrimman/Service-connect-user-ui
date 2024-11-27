@@ -46,7 +46,7 @@ import ComplaintsPageUser from '../components/user/complaintsPageComponents/Comp
 import TermsAndConditionPage from "../pages/termsAndConditionPage/TermsAndConditionPage";
 import PaymentMethodPage from "../pages/paymentMethodsPages/PaymentMethodPage";
 import NotificationsPage from "../pages/userHomePages/NotificationPage";
-import HelpCenterPage from "../pages/helpCenterPage/helpCenterPage";
+import HelpCenterPage from "../pages/helpCenterPage/HelpCenterPage";
 import AboutPage from "../pages/aboutPage/AboutPage";
 
 // Layouts and Error Pages
